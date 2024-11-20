@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
+SimplePoly - Town Pack/
+TextMesh Pro/
+
+Assets/*.meta
+Assets/Scenes/*.meta
+Assets/Scenes/*/*.meta
+Assets/StreamingAssets/*.meta
+Assets/StreamingAssets/*/*.meta

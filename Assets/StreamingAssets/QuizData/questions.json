@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "locationId": 1,
+      "question": "Unityの公式サイトはどれですか？",
+      "options": ["unity.com", "unrealengine.com", "godotengine.org"],
+      "correctAnswer": "unity.com"
+    },
+    {
+      "locationId": 2,
+      "question": "C#の発明者は誰ですか？",
+      "options": ["Anders Hejlsberg", "Guido van Rossum", "James Gosling"],
+      "correctAnswer": "Anders Hejlsberg"
+    },
+    {
+      "locationId": 3,
+      "question": "ゲーム開発に人気のあるエンジンは？",
+      "options": ["Unity", "WordPress", "Photoshop"],
+      "correctAnswer": "Unity"
+    }
+  ]
+}
